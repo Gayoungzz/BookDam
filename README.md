@@ -116,7 +116,7 @@ Controller → Service → DAO → Service → Controller → JSP 흐름으로 �
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/b1939c35-c898-4f46-af8b-aa34d66ce2c8" />
 <br>[장바구니]<br><br>
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/afd2374d-6f18-47c4-bd6b-d39076ecc17e" />
-<img width="260" alt="Image" src="https://github.com/user-attachments/assets/3f14172a-a28e-435e-ab32-1e67c04e08f6" />
+<img width="220" alt="Image" src="https://github.com/user-attachments/assets/e6871da6-b9c0-4cda-8be6-fbbdd17c44d3" />
 <br>[카카오페이 API 활용한 도서 구매]<br><br>
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/89892c8e-3125-421e-ac63-d7dcf2cb04d3" />
 <br>[주문내역 확인 - 비회원]<br><br>
@@ -132,13 +132,15 @@ Controller → Service → DAO → Service → Controller → JSP 흐름으로 �
 <br/>
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/cc0d21e1-777d-42a6-be51-3f13fccd369e" />
 <br>[관리자 도서 정보 수정]<br><br>
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/98f0152f-b505-4552-96f1-d61326d078cc" />
+<br>[관리자 주문 정보 관리 - 검색 및 배송 상태 변경]<br><br>
 
 
 <br/>
 
 ## 06. 프로젝트 완료 후 소감
 각 기능을 구현한 담당자가 느낀 점
-<img width="1365" height="482" alt="Image" src="https://github.com/user-attachments/assets/ada253b7-7c3b-4357-bdda-e3e05d16ab42" />
+<img width="1200" alt="Image" src="https://github.com/user-attachments/assets/ada253b7-7c3b-4357-bdda-e3e05d16ab42" />
 
 
 
