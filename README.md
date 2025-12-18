@@ -34,7 +34,7 @@
     <td> mybatis</td>
   <tr>
     <td>라이브러리 및 API</td>
-    <td>jQuery, log4j, websocket, 알라딘 도서정보 API, 도서나루 API</td>
+    <td>jQuery, log4j, websocket, 알라딘 도서정보, 도서나루 API, 카카오페이 API</td>
   </tr>
    <tr>
     <td>협업 툴</td>
@@ -99,13 +99,10 @@ Controller → Service → DAO → Service → Controller → JSP 흐름으로 �
 * 사용자 리뷰 작성 및 평점 제공
 
 <br/>
-  <img src="https://github.com/user-attachments/assets/8b99faae-5ced-403f-94c8-cd09adcb1e3d" width="400" />
-  <br>[프로젝트 등록 시 다양한 부서원 초대 가능]<br><br>
-  <img src="https://github.com/user-attachments/assets/4a390bfd-3b3e-4008-8387-1a057f11a30b" width="700" />
-  <br>[진행 중인 프로젝트 목록]<br><br>
-  <img src="https://github.com/user-attachments/assets/c0eff935-012e-402b-a705-1467f36a8934" width="700" />
-  <br>[업무 처리 화면]<br><br>
-
+  <img src="https://github.com/user-attachments/assets/83657531-3804-4d80-b6f7-8e2f28eba8b6" width="700" />
+  <br>[도서 검색 - 판매인기순, 리뷰순, 최신순 정렬 가능]<br><br>
+  <img src="https://github.com/user-attachments/assets/16946422-4bbe-42ac-b633-645f9f6f8c64" width="700" />
+  <br>[도서 리뷰 - 구매자/전체 리뷰 분기 및 스포일러 방지 기능]<br><br>
 <hr />
 
 ### 💵 도서 구매
@@ -116,10 +113,10 @@ Controller → Service → DAO → Service → Controller → JSP 흐름으로 �
 * 결제 상태 및 배송 현황 실시간 확인
 
 <br/>
-<img width="800" alt="Image" src="https://github.com/user-attachments/assets/d1f1e4fe-d0b8-4e7d-9da6-be192d06fbff" />
-<br>[전자결재 홈]<br><br>
-<img width="800" alt="Image" src="https://github.com/user-attachments/assets/b39c9498-990e-4bf0-b6f1-565a756c9a4f" />
-<br>[기안서 작성 페이지]<br><br>
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/b1939c35-c898-4f46-af8b-aa34d66ce2c8" />
+<br>[장바구니]<br><br>
+![Image](https://github.com/user-attachments/assets/9e92bf5a-a832-42d7-9161-7d889ab4b1ed)
+<br>[카카오페이 API 활용한 도서 구매]<br><br>
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/aac846cc-a60f-4952-b1a8-6a6815c5ad8e" />
 <br>['신메뉴 기안서' 최종 승인 시, 해당 화면에 바로 반영되어 별도 관리 가능]<br><br>
 
@@ -132,18 +129,9 @@ Controller → Service → DAO → Service → Controller → JSP 흐름으로 �
 * 재고 관리 및 주문 내역 확인
 
 <br/>
-<table>
-  <tr>
-    <td align="center">
-      <img width="309" alt="Image" src="https://github.com/user-attachments/assets/65b1469d-404d-4546-89ef-0929841ac103" /><br>
-      [회의실 자동 예약]
-    </td>
-    <td align="center">
-      <img width="299" alt="Image" src="https://github.com/user-attachments/assets/1e0082ec-d27e-4fd7-a9eb-7062d38e4744" /><br>
-      [구성원 검색]
-    </td>
-  </tr>
-</table>
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/cc0d21e1-777d-42a6-be51-3f13fccd369e" />
+<br>[관리자 도서 정보 수정]<br><br>
+
 
 <br/>
 
