@@ -57,7 +57,26 @@
 * 협업 관리: Redmine을 통한 이슈 트래킹 및 마일스톤 관리
 
 ### 서비스 아키텍처
-Controller → Service → DAO → Service → Controller → JSP 순서로 흐르는 전통적인 MVC 구조. 서버 사이드 렌더링(SSR) 기반으로 안정적인 화면 제공
+Controller → Service → DAO → Service → Controller → JSP 흐름으로 서버 사이드 렌더링 제공.
+
+<table>
+  <tr>
+    <th>액터</th>
+    <th>주요 기능</th>
+  </tr>
+  <tr>
+    <td><b>회원용 서비스</b></td>
+    <td>로그인, 회원가입, 마이페이지, 장바구니, 결제, 환불</td>
+  </tr>
+  <tr>
+    <td><b>비회원용 서비스</b></td>
+    <td>도서 검색, 도서 상세 조회, 베스트셀러 확인</td>
+  </tr>
+  <tr>
+    <td><b>관리자용 서비스</b></td>
+    <td>도서 정보 관리, 재고 관리, 주문 내역 관리, 회원 관리</td>
+  </tr>
+</table>
 
 ### 데이터베이스
 <p align="left">
@@ -72,7 +91,7 @@ Controller → Service → DAO → Service → Controller → JSP 순서로 흐�
 
 ## 05. 주요 기능
 
-### 🗂️ 프로젝트 관리
+### 🔎 도서 검색 및 리뷰
 다양한 부서가 함께하는 프로젝트
 
 * 프로젝트 등록 시, 다양한 부서의 사람들 초대
@@ -88,7 +107,7 @@ Controller → Service → DAO → Service → Controller → JSP 순서로 흐�
 
 <hr />
 
-### 🖋️전자결재 
+### 💵 도서 구매
 결재 업무 효율화 및 자동 처리
 
 * 전자 문서 생성, 결재 요청 및 승인 프로세스 제공
@@ -105,7 +124,7 @@ Controller → Service → DAO → Service → Controller → JSP 순서로 흐�
 
 <hr />
 
-### 🤖 AI 챗봇
+### 📙 도서 관리
 업무 어시스턴스
 
 * 회사 규정·구성원 정보 검색 지원
@@ -124,6 +143,8 @@ Controller → Service → DAO → Service → Controller → JSP 순서로 흐�
     </td>
   </tr>
 </table>
+
+
 
 
 
