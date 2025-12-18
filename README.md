@@ -115,10 +115,11 @@ Controller → Service → DAO → Service → Controller → JSP 흐름으로 �
 <br/>
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/b1939c35-c898-4f46-af8b-aa34d66ce2c8" />
 <br>[장바구니]<br><br>
-![Image](https://github.com/user-attachments/assets/9e92bf5a-a832-42d7-9161-7d889ab4b1ed)
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/afd2374d-6f18-47c4-bd6b-d39076ecc17e" />
+<img width="260" alt="Image" src="https://github.com/user-attachments/assets/3f14172a-a28e-435e-ab32-1e67c04e08f6" />
 <br>[카카오페이 API 활용한 도서 구매]<br><br>
-<img width="600" alt="Image" src="https://github.com/user-attachments/assets/aac846cc-a60f-4952-b1a8-6a6815c5ad8e" />
-<br>['신메뉴 기안서' 최종 승인 시, 해당 화면에 바로 반영되어 별도 관리 가능]<br><br>
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/89892c8e-3125-421e-ac63-d7dcf2cb04d3" />
+<br>[주문내역 확인 - 비회원]<br><br>
 
 <hr />
 
