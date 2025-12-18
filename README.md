@@ -92,11 +92,12 @@ Controller → Service → DAO → Service → Controller → JSP 흐름으로 �
 ## 05. 주요 기능
 
 ### 🔎 도서 검색 및 리뷰
-다양한 부서가 함께하는 프로젝트
+사용자가 원하는 도서를 쉽게 찾고, 리뷰 확인 가능
 
-* 프로젝트 등록 시, 다양한 부서의 사람들 초대
-* 업무 및 진행률 실시간 확인
-* 프로젝트 전 단계(등록–진행–완료) 관리
+* 키워드, 카테고리, 작가 등 다양한 조건으로 도서 검색
+* 도서 상세 정보 및 리뷰 확인
+* 사용자 리뷰 작성 및 평점 제공
+
 <br/>
   <img src="https://github.com/user-attachments/assets/8b99faae-5ced-403f-94c8-cd09adcb1e3d" width="400" />
   <br>[프로젝트 등록 시 다양한 부서원 초대 가능]<br><br>
@@ -108,12 +109,12 @@ Controller → Service → DAO → Service → Controller → JSP 흐름으로 �
 <hr />
 
 ### 💵 도서 구매
-결재 업무 효율화 및 자동 처리
+사용자가 편리하게 도서를 구매할 수 있도록 지원
 
-* 전자 문서 생성, 결재 요청 및 승인 프로세스 제공
-* 결재 단계 및 진행 상태 실시간 확인
-* 결재 완료 시 자동으로 업무에 반영
-* 승인 알림 및 문서 보관 자동화
+* 장바구니 담기, 결제, 주문 내역 확인 기능 제공
+* 결제 완료 후 자동 주문 처리 및 재고 반영
+* 결제 상태 및 배송 현황 실시간 확인
+
 <br/>
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/d1f1e4fe-d0b8-4e7d-9da6-be192d06fbff" />
 <br>[전자결재 홈]<br><br>
@@ -125,11 +126,11 @@ Controller → Service → DAO → Service → Controller → JSP 흐름으로 �
 <hr />
 
 ### 📙 도서 관리
-업무 어시스턴스
+관리자가 도서를 효율적으로 관리할 수 있는 기능 제공
 
-* 회사 규정·구성원 정보 검색 지원
-* 자동 기안서 작성 - 휴가 신청서, 신메뉴 등록 기안서
-* 회의실 예약 등 반복 업무 자동 처리
+* 도서 정보 등록, 수정, 삭제
+* 재고 관리 및 주문 내역 확인
+
 <br/>
 <table>
   <tr>
@@ -143,6 +144,12 @@ Controller → Service → DAO → Service → Controller → JSP 흐름으로 �
     </td>
   </tr>
 </table>
+
+<br/>
+
+## 06. 프로젝트 완료 후 소감
+각 기능을 구현한 담당자가 느낀 점
+<img width="1365" height="482" alt="Image" src="https://github.com/user-attachments/assets/ada253b7-7c3b-4357-bdda-e3e05d16ab42" />
 
 
 
