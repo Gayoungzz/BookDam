@@ -1,8 +1,8 @@
 # 📖 BookDam
 > <b>도서 검색, 구매, 관리</b> 기능을 제공하는 웹 서비스. <b>도서판매 시스템</b>
 <p align="center">
-<img width="1891" height="910" alt="Image" src="https://github.com/user-attachments/assets/5f56891c-3dad-49fc-bb46-5cde25a0caaa" />
-<img width="1903" height="900" alt="Image" src="https://github.com/user-attachments/assets/10629b0d-163e-470d-a415-074d6df021f9" />
+<img width="1901" height="1705" alt="Image" src="https://github.com/user-attachments/assets/9a63ea70-e327-434c-a263-e54a599b59f0" />
+<img width="1901" height="875" alt="Image" src="https://github.com/user-attachments/assets/a6166eec-c8dc-4005-ba08-4f9094386562" />
 </p>
 
 </br>
